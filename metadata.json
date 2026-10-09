@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse",
+  "description": "Never Miss an Opportunity Again. Centralized college opportunity matching and deadline alert platform for students and organizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
